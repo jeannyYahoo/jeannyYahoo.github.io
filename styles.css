@@ -1,0 +1,58 @@
+.content {
+    background-image: url(assets/grey2.jpg);
+    background-size: auto, cover;
+    padding-right: 10%;
+    padding-left: 10%;
+    font-family: 'Roboto Slab', monospace, courier;
+    text-align: justify;
+    line-height: 1.2;
+}
+.navBar {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    background-color: #333333;
+  }
+.logo {
+    position: relative;
+    padding-left: 10%;
+    padding-top: 8px;
+}   
+.navBar a {
+    color: #ff0099;
+    font-family: 'Roboto Slab', monospace, courier; 
+    padding: 14px 20px;
+    display: inline-block;
+        }
+.navBarText {
+    float: right;
+    padding-right: 10%;
+}
+a:hover {
+    background-color: #111;
+  }
+.nameHeader {
+    font-size: 140%;
+    padding-top: 40px;
+}
+.freelancer {
+    color: #ff0099;
+    text-overflow: none;
+    font-size: 120%;
+}
+.divider {
+    text-align: center;
+    font-weight: bold;
+    font-size: 140%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.wikiHeader {
+    text-align: center;
+    font-weight: bold;
+    font-size: 120%;
+}
+.homeContent {
+    text-align: center;
+}
